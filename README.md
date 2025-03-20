@@ -3,15 +3,13 @@ It is a free, open-source security platform used for threat detection, incident 
 
 ![Wazuh Diagram](https://github.com/user-attachments/assets/2dc63569-25c3-431f-a01f-6272537048ed)
 
-#to Install Wazuh on a Virtual Machine (VM) follow the steps
+# to Install Wazuh on a Virtual Machine (VM) follow the steps
 
 **First install VMware Workstation Player (Free for personal use)** – Download Here (https://www.vmware.com/)
 
 **Install OS: Ubuntu 22.04 LTS in your VM workstation**
 
 **After Ubuntu installation, log in and update the system from Terminal**
-
-**Pecture**
 
 # Install Wazuh on Ubuntu#
 
