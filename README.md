@@ -1,7 +1,7 @@
 # Wazuh-Open-Source-Security-Platform
 It is a free, open-source security platform for threat detection, incident response, and compliance monitoring. It is an advanced Host-based Intrusion Detection System (HIDS) that helps monitor and protect endpoints, servers, and cloud environments.
 
-![Wazuh Diagram](https://github.com/user-attachments/assets/e5450df6-883a-4631-b747-4743a8f786d7)
+![Wazuh Diagram](https://github.com/user-attachments/assets/3cb4b6e0-5ef6-4646-b4c4-8e2272259c3a)
 
 # To Install Wazuh on a Virtual Machine (VM) follow the steps
 
@@ -10,8 +10,6 @@ It is a free, open-source security platform for threat detection, incident respo
 **See how to install VM (https://github.com/Hsd2024/Vertual-Machine-installation)**
 
 **Install OS: Ubuntu 22.04 LTS in your VM workstation**
-
-**See how to install Ubuntu in VM (xxxxxxxxxxxxxxxx)**
 
 **After Ubuntu installation, log in and update the system from Terminal**
 
