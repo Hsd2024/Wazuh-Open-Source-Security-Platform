@@ -7,22 +7,28 @@ It is a free, open-source security platform for threat detection, incident respo
 
 **First install VMware Workstation Player (Free for personal use)** – Download Here (https://www.vmware.com/)
 
-*see how to install it (gh repo clone Hsd2024/Vertual-Machine-installation)*
+**See how to install VM (https://github.com/Hsd2024/Vertual-Machine-installation)**
 
 **Install OS: Ubuntu 22.04 LTS in your VM workstation**
 
+**See how to install Ubuntu in VM (xxxxxxxxxxxxxxxx)**
+
 **After Ubuntu installation, log in and update the system from Terminal**
+
+this is the script    _""sudo apt update && sudo apt upgrade -y && sudo apt autoremove -y && sudo apt clean""_
+
+![ub- update+upgrade](https://github.com/user-attachments/assets/69ee4de2-1c51-4c96-be74-0cbfb69ffd17)
+
 
 # Install Wazuh on Ubuntu#
 
-**Run the Wazuh installation script**
+**This is the script**    _""curl -sO https://packages.wazuh.com/4.11/wazuh-install.sh && sudo bash ./wazuh-install.sh -a""_
 
-curl -sO https://packages.wazuh.com/4.11/wazuh-install.sh && sudo bash ./wazuh-install.sh -a
+**Run the Wazuh installation script in termenal**
 
 - Install Wazuh repository
 
-curl -sO https://packages.wazuh.com/key/GPG-KEY-WAZUH
-
+""curl -sO https://packages.wazuh.com/key/GPG-KEY-WAZUH""
 sudo apt-key add GPG-KEY-WAZUH
 echo "deb https://packages.wazuh.com/4.x/apt/ stable main" | sudo tee /etc/apt/sources.list.d/wazuh.list
 sudo apt update
