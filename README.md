@@ -7,7 +7,7 @@ It is a free, open-source security platform for threat detection, incident respo
 
 **First install VMware Workstation Player (Free for personal use)** – Download Here (https://www.vmware.com/)
 
-*see how to install it ( )*
+*see how to install it (gh repo clone Hsd2024/Vertual-Machine-installation)*
 
 **Install OS: Ubuntu 22.04 LTS in your VM workstation**
 
