@@ -1,7 +1,7 @@
 # Wazuh-Open-Source-Security-Platform
 It is a free, open-source security platform used for threat detection, incident response, and compliance monitoring. It is an advanced Host-based Intrusion Detection System (HIDS) that helps monitor and protect endpoints, servers, and cloud environments.
 
-![Wazuh Diagram](https://github.com/user-attachments/assets/2dc63569-25c3-431f-a01f-6272537048ed)
+![Wazuh Diagram](https://github.com/user-attachments/assets/e5450df6-883a-4631-b747-4743a8f786d7)
 
 # To Install Wazuh on a Virtual Machine (VM) follow the steps
 
