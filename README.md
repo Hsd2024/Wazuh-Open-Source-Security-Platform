@@ -24,13 +24,6 @@ this is the script    _""sudo apt update && sudo apt upgrade -y && sudo apt auto
 
 **Run the Wazuh installation script in termenal**
 
-- Install Wazuh repository
-
-""curl -sO https://packages.wazuh.com/key/GPG-KEY-WAZUH""
-sudo apt-key add GPG-KEY-WAZUH
-echo "deb https://packages.wazuh.com/4.x/apt/ stable main" | sudo tee /etc/apt/sources.list.d/wazuh.list
-sudo apt update
-
 - Install Wazuh Manager
 
 sudo apt install -y wazuh-manager
