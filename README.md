@@ -24,9 +24,13 @@ this is the script    _""sudo apt update && sudo apt upgrade -y && sudo apt auto
 
 **Run the Wazuh installation script in termenal**
 
+![1](https://github.com/user-attachments/assets/43832070-2dca-4ac7-9ce2-7ebd51e7ce47)
+
 - Install Wazuh Manager
 
 sudo apt install -y wazuh-manager
+
+![3](https://github.com/user-attachments/assets/2b99f6d3-f427-41ba-a993-e425bb476424)
 
 - Start and enable Wazuh Manager
 
