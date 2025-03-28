@@ -15,8 +15,7 @@ It is a free, open-source security platform for threat detection, incident respo
 
 this is the script    _""sudo apt update && sudo apt upgrade -y && sudo apt autoremove -y && sudo apt clean""_
 
-![ub- update+upgrade](https://github.com/user-attachments/assets/69ee4de2-1c51-4c96-be74-0cbfb69ffd17)
-
+<img width="632" alt="wa-1" src="https://github.com/user-attachments/assets/5eccd840-e94b-4717-a195-0af6e03e8333" />
 
 # Install Wazuh on Ubuntu#
 
