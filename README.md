@@ -15,7 +15,7 @@ It is a free, open-source security platform for threat detection, incident respo
 
 this is the script    _""sudo apt update && sudo apt upgrade -y && sudo apt autoremove -y && sudo apt clean""_
 
-<img width="632" alt="wa-1" src="https://github.com/user-attachments/assets/5eccd840-e94b-4717-a195-0af6e03e8333" />
+<img width="685" alt="Screenshot 2025-03-29 051922" src="https://github.com/user-attachments/assets/9aa63188-cdec-49bf-adc6-2b234d579ab9" />
 
 # Install Wazuh on Ubuntu#
 
@@ -23,22 +23,13 @@ this is the script    _""sudo apt update && sudo apt upgrade -y && sudo apt auto
 
 **Run the Wazuh installation script in termenal**
 
-![1](https://github.com/user-attachments/assets/43832070-2dca-4ac7-9ce2-7ebd51e7ce47)
+<img width="632" alt="wa-1" src="https://github.com/user-attachments/assets/65a1b412-e618-4f2d-bbd2-ab5fe27ab995" />
 
-- Install Wazuh Manager
+- Installing Wazuh
 
-sudo apt install -y wazuh-manager
+<img width="815" alt="wa-2" src="https://github.com/user-attachments/assets/bf062d9a-80a0-4bae-bcc4-2c355ae03413" />
 
-![3](https://github.com/user-attachments/assets/2b99f6d3-f427-41ba-a993-e425bb476424)
-
-- Start and enable Wazuh Manager
-
-sudo systemctl enable wazuh-manager --now
-
-- Verify Wazuh is Running
-
-sudo systemctl status wazuh-manager
-If it says “active (running)”, Wazuh is installed successfully! 🎉
+Wazuh is installed successfully! 🎉
 
 (Find your VM's IP using ip a or hostname -I.)
 
@@ -47,5 +38,5 @@ If it says “active (running)”, Wazuh is installed successfully! 🎉
 # Log in using the default credentials.
 
 Username: admin
-Password: wazuh
+Password: XXXXXXXX
 
