@@ -31,12 +31,18 @@ this is the script    _""sudo apt update && sudo apt upgrade -y && sudo apt auto
 
 Wazuh is installed successfully! 🎉
 
-(Find your VM's IP using ip a or hostname -I.)
+(Find your IP using ip a or hostname -I.)
 
 - Access the Wazuh web interface with https://<WAZUH_DASHBOARD_IP_ADDRESS> inter the IP address,
+  
+<img width="730" alt="wa-4" src="https://github.com/user-attachments/assets/b9a53ee7-0c80-4a38-8f93-a13d1268522c" />
 
-# Log in using the default credentials.
+Log in using the default credentials.
+
+<img width="729" alt="wa-3" src="https://github.com/user-attachments/assets/8e14f3f1-c66a-4aae-b697-02da793e784e" />
 
 Username: admin
 Password: XXXXXXXX
+
+<img width="823" alt="Last_Screenshot" src="https://github.com/user-attachments/assets/f4e65c37-0ec5-4ff7-97fd-e8234de87a6d" />
 
